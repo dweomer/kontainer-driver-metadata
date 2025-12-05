@@ -11,6 +11,6 @@ replace (
 require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/rancher/rke v1.2.4-0.20201118155135-4c1ad81cd691
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.3
 	sigs.k8s.io/yaml v1.2.0
 )
